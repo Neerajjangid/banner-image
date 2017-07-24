@@ -2,7 +2,7 @@
 
 .banner-image-wp-head{
     position: relative;
-    z-index: 100;
+    z-index: 99999;
     width: 100%;
     display: block;
     top: 0;
