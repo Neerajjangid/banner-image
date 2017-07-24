@@ -3,7 +3,7 @@ div.banner-image-wp-head {
     position: fixed !important;
     background-color: #c05e37;
     color: #fff;
-    z-index: 1000
+    z-index: 99999;
 }
 
 div.banner-image-wp-head a.banner-image{
